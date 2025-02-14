@@ -20,12 +20,12 @@ require_once __TYPECHO_ROOT_DIR__ . '/var/Typecho/Common.php';
 // config db
 $db = new \Typecho\Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
-  'host' => 'sql.freedb.tech',
+  'host' => 'db.dmafvhxxsltwagpvyxmd.supabase.co',
   'port' => 3306,
-  'user' => 'freedb_adminolhak',
-  'password' => 'GRq9v!BjgNH&n$M',
+  'user' => 'postgres',
+  'password' => 'jFtlm43btWImMVnb',
   'charset' => 'utf8mb4',
-  'database' => 'freedb_adminolhak',
+  'database' => 'postgres',
   'engine' => 'InnoDB',
   'sslCa' => '',
   'sslVerify' => true,
