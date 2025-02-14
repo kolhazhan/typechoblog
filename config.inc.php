@@ -20,7 +20,7 @@ require_once __TYPECHO_ROOT_DIR__ . '/var/Typecho/Common.php';
 // config db
 $db = new \Typecho\Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
-  'host' => 'db.dmafvhxxsltwagpvyxmd.supabase.co',
+  'host' => 'https://dmafvhxxsltwagpvyxmd.supabase.co',
   'port' => 3306,
   'user' => 'postgres',
   'password' => 'jFtlm43btWImMVnb',
