@@ -22,10 +22,10 @@ $db = new \Typecho\Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
   'host' => 'sql.freedb.tech',
   'port' => 3306,
-  'user' => 'freedb_kolhazhanchong',
-  'password' => 'YD6Psag*%5ytb3h',
+  'user' => 'freedb_adminolhak',
+  'password' => 'GRq9v!BjgNH&n$M',
   'charset' => 'utf8mb4',
-  'database' => 'freedb_kolhazhanchong',
+  'database' => 'freedb_adminolhak',
   'engine' => 'InnoDB',
   'sslCa' => '',
   'sslVerify' => true,
