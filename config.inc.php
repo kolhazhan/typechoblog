@@ -36,12 +36,12 @@ Typecho_Common::init();
 /** 定义数据库参数 */
 $db = new Typecho_Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
-  'host' => 'db.dmafvhxxsltwagpvyxmd.supabase.co',
-  'user' => 'postgres',
-  'password' => 'jFtlm43btWImMVnb',
+  'host' => 'ep-icy-brook-a1gxqd8c-pooler.ap-southeast-1.aws.neon.tech',
+  'user' => 'neondb_owner',
+  'password' => 'npg_5MQYa0xSWvgP',
   'charset' => 'utf8mb4',
   'port' => '3306',
-  'database' => 'postgres',
+  'database' => 'neondb',
   'engine' => 'MyISAM',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);
