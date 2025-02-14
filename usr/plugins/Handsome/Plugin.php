@@ -2,11 +2,11 @@
 /**
  * <strong style="color:red;">handsomePro 唯一配套插件</strong>
  *
- * @package Handsome
+ * @package 更多资源搜索狗凯之家
  * @author hewro,hanny
  * @version 9.2.1
  * @dependence 1.0-*
- * @link https://www.ihewro.com
+ * @link https://www.bygoukai.com/
  *
  */
 
